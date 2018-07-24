@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.13",
-    "extend": "~1.2.1",
+    "extend": "~2.0.2",
     "font-awesome": "^4.5.0",
     "graceful-fs": "~2.0.1",
     "lodash.indexby": "^3.0.0",
